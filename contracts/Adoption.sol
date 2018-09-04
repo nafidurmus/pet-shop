@@ -19,7 +19,7 @@ contract Adoption {
 	}
 
 	function getAdopters () public view returns (address[16]) {
-		returns adopters;
+		return adopters;
 		
 	}
 	
